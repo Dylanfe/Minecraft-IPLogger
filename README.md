@@ -16,9 +16,7 @@ A Minecraft server plugin for logging player IP addresses to a SQL database.
 ## Build Instructions
 
 1. Clone this repository:
-   ```sh
-   git clone <your-repo-url>
-   cd IPLogger
+   git clone https://github.com/Dylanfe/Minecraft-IPLogger.git
    ```
 
 2. Build the plugin:
