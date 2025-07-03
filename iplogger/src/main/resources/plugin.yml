@@ -1,0 +1,12 @@
+name: IPLogger
+version: 1.0
+author: Dylan
+description: Logs players' IP addresses into a database.
+main: com.convicted.iplogger.IPLoggerPlugin
+api-version: 1.20
+
+database:
+  host: na04-sql.pebblehost.com
+  name: customer_737236_userip
+  username: customer_737236_userip
+  password: h9FKgJ0oQ!zMrlJ!HvQQ

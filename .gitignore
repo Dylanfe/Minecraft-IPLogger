@@ -1,0 +1,32 @@
+# Maven build directory
+target/
+iplogger/target/
+
+# Eclipse/IntelliJ IDEA project files
+*.iml
+.idea/
+*.ipr
+*.iws
+*.classpath
+*.project
+.settings/
+
+# VSCode settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Compiled class files
+*.class
+
+# Other
+*.swp
+
+# Sensitive config files
+iplogger/src/main/resources/config.yml
+src/main/resources/config.yml

@@ -1,0 +1,5 @@
+database:
+  host: your-database-host
+  name: your-database-name
+  username: your-database-username
+  password: your-database-password
