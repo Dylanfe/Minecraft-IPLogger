@@ -1,5 +1,7 @@
 # IPLogger Plugin
 
+**This is a plugin for Minecraft servers (Spigot/Paper). It is not a mod and will not work on the client or with Forge/Fabric.**
+
 A Minecraft server plugin for logging player IP addresses to a SQL database.
 
 ## Supported Minecraft Version
@@ -16,8 +18,7 @@ A Minecraft server plugin for logging player IP addresses to a SQL database.
 ## Build Instructions
 
 1. Clone this repository:
-   git clone https://github.com/Dylanfe/Minecraft-IPLogger.git
-   ```
+   ```git clone https://github.com/Dylanfe/Minecraft-IPLogger.git
 
 2. Build the plugin:
    ```sh
